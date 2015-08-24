@@ -19,7 +19,6 @@ long_description = (
     + '\n' +
     read('CHANGES.txt')
     + '\n' +
-    + '\n' +
     'Download\n'
     '********\n')
 
