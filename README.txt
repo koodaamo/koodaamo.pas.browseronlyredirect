@@ -1,5 +1,5 @@
 Introduction
-------------
+*************
 
 This is a modified Cookie Auth Plugin that only redirects if the UA is a browser.
 The main envisioned use case is for scenarios that require an API to be built for
